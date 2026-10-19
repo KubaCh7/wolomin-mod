@@ -45,9 +45,6 @@
       "color": 2,
       "estimated_mass": true,
       "estimated_radius": true,
-      "aliases": [
-        "zabka"
-      ],
       "eccentricity": 0.02,
       "inclination": 2.0,
       "node": 40,
@@ -96,7 +93,6 @@
       "estimated_mass": true,
       "estimated_radius": true,
       "aliases": [
-        "wolomin prime",
         "wolomin",
         "wp"
       ],
